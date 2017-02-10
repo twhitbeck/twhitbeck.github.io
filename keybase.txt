@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/twhitbeck
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://twhitbeck.com
+  * I am twhitbeck (https://keybase.io/twhitbeck) on keybase.
+  * I have a public key with fingerprint 269A D157 962B 6EAE F5FC  738F E984 2088 0BF4 98D9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101697e2714507c120b63c54ac2b6cf3b83e08440c71eca327702cca5a3f166566c0a",
+            "fingerprint": "269ad157962b6eaef5fc738fe98420880bf498d9",
+            "host": "keybase.io",
+            "key_id": "e98420880bf498d9",
+            "kid": "0101697e2714507c120b63c54ac2b6cf3b83e08440c71eca327702cca5a3f166566c0a",
+            "uid": "2281b2609d96cae8187517557eec9b00",
+            "username": "twhitbeck"
+        },
+        "service": {
+            "hostname": "twhitbeck.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486733606,
+    "expire_in": 157680000,
+    "prev": "136c04e951eff716058b74a6a1ad7549e5e0f38e4263322226ba907308f6708e",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBVBGD7HNMmIyqyXqHNcIglUZm8zs6eHSCy7kSVmYeppd3ZWN3X3
+uGc9ZlLRjexiCBVoYUk3o4JEQ4QezLA7RSWFUJAJglFS0YMkSs1KvUSP/S/D/PN9
+33zfz983a5ovyT9hfAMv6pd98T/tbar2bWvpXVrHabZey4XquHI6ddAKnUbdcLmp
+cyEO8ICHCqIC4iUZIMILQIMikSWVCBokhqhhkQIsSYAgnhJVFBACAiGqrIoGD6EM
+IQEql84ZplVKnYhjWi6TFaCi6ryMFMhUqEoN2SBIxAZVsCQAjIFmSArWFUYss6Me
+g5nT1CjNNG3WY5fwlL1/4P+z7+opOUHAvCZAoOgKJCrFPEYyj2QZUUoUDQAPGKWO
+pVZShnZrykxXo6Sc25POsXbMJNSbrBflb0gmsSsZO+LYrk3sCvZU5rqRkMd0ayMe
+tIZq4d8iYc20dDZIRohRJ2raFhfiGZK4pqfKSxgiUYQApnN0V8R0aNj0EDKCGLDy
+vqExJsmLLJ1EFZmnhoF4CGSsIUmFKq/qSJYUKlNgiJhKAhRFgRXUVAUgEWADIoAp
+58WqsmwuhJlNtZRJRs1SS3WrHcrtuXe3KN7nT/JNT4jzFsyXNGPOn7V7eyfxZ9Xc
+x4kt4wPfOlqvzD+69GH/+uTshjH/wNm9BUV3w48SZNFaNrgqPS2zqzX5lbVWuHa6
+Y7J9cCQwcilr83D9udjbxhh403ehKPyp+/PzjLb2tKqe4L2+oVPx4WBmWrVduPrG
+yd25HwKji/KWLB4MvkzdlPfECiQ1+g5sDckpuCzvTPPYwpRD65onndGchmclbd3X
+x7JuxzldqH//8vO1rU5zcelgQ/68w8dSS+wF/tVazq3hQOdwcOPQidkzfeNvdjR9
+Dd5e8zFfv/xuZ2dz4fmLkcSVGV2VPyof9N3ccL9gS+7sS9nDXW0D/e+/F17t2fA6
+vzc1MCEOrJAOxh3fvu9I8RrrF3LPPxY=
+=O5U+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/twhitbeck
+
+==================================================================
